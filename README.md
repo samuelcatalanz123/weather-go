@@ -1,5 +1,7 @@
 # clima — App del clima (CLI en Go)
 
+[![CI](https://github.com/samuelcatalanz123/weather-go/actions/workflows/ci.yml/badge.svg)](https://github.com/samuelcatalanz123/weather-go/actions/workflows/ci.yml)
+
 > 🌐 Languages: **Español** · English below
 
 Programa de línea de comandos que muestra el clima actual de cualquier ciudad,
